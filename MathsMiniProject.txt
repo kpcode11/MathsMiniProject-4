@@ -15,7 +15,7 @@
 10. I got to know how normal distribution is related to such random experiments.
 
 
-
+	(TO BE INCLUDED IN THE REPORT)
 	INTRODUCTION
 what the problem is about?
 The problem involves generating **100 random one-digit numbers** and analyzing how often even numbers appear. This process is repeated across multiple trials (10, 20, 30… up to 1000 trials).  
@@ -32,7 +32,7 @@ problems faced and how I tackled?
 3. Creating graphs, understanding them and deducing conclusions from it.
 at last I learnt about the application of such distribution and how it helps
 
-
+	(TO BE INCLUDED IN THE REPORT)
 Problems Faced and How I Tackled Them
 During the course of this experiment, I encountered several challenges, which I systematically addressed using Python and analytical techniques. Below is a detailed account of the problems faced and the solutions implemented:
 
@@ -58,6 +58,7 @@ Solution: I used the matplotlib and seaborn libraries to generate frequency curv
 3. Final Conclusion and what we learnt at last, what was the main motive of this problem
 
 
+	(TO BE INCLUDED IN THE REPORT)
 	Inferences from the graphs/images
 Interpretation of the Two Images
 First Image (Frequency Curve of Digits from 0-10 - Trial 1):
@@ -84,7 +85,8 @@ Trend Analysis – With increasing trials, the distribution should approach the 
 Statistical Stability – At lower trials (100, 200), the fluctuations in the proportion of even numbers might be higher. As trials increase (500, 1000), the variation should reduce, showing convergence to the expected probability.
 Law of Large Numbers – This visualization likely demonstrates that as the sample size increases, the observed proportion of even numbers gets closer to the theoretical probability.
 
-
+		
+		(TO BE INCLUDED IN THE REPORT)
 		Conclusion
 The main motives of this problem are:
 
